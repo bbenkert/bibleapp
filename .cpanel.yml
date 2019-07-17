@@ -2,7 +2,8 @@
 deployment:
   tasks:
     - export DEPLOYPATH=/home/dailybibleapp/public_html/
-    - /bin/cp calendar.html $DEPLOYPATH
-    - /bin/cp app.js $DEPLOYPATH
-    - /bin/cp vods.json $DEPLOYPATH
+    - /bin/cp -R css $DEPLOYPATH
+    - /bin/cp -R img $DEPLOYPATH
+    - /bin/cp -R js $DEPLOYPATH
     - /bin/cp index.html $DEPLOYPATH
+    - /bin/cp favicon.ico $DEPLOYPATH

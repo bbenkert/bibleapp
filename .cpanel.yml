@@ -5,3 +5,4 @@ deployment:
     - /bin/cp calendar.html $DEPLOYPATH
     - /bin/cp app.js $DEPLOYPATH
     - /bin/cp vods.json $DEPLOYPATH
+    - /bin/cp index.html $DEPLOYPATH

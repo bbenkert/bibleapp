@@ -1,0 +1,7 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/dailybibleapp/public_html/
+    - /bin/cp calendar.html $DEPLOYPATH
+    - /bin/cp app.js $DEPLOYPATH
+    - /bin/cp vods.json $DEPLOYPATH

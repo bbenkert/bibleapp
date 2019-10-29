@@ -1,0 +1,250 @@
+[
+    {
+        "day": "1",
+        "ntbook": "mark",
+        "ntchapter": "7",
+        "ntverse": "14-37",
+        "otbook": "numbers",
+        "otchapter": "22-25"
+    },
+    {
+        "day": "2",
+        "ntbook": "mark",
+        "ntchapter": "8",
+        "ntverse": "1-21",
+        "otbook": "numbers",
+        "otchapter": "26-27"
+    },
+    {
+        "day": "3",
+        "ntbook": "mark",
+        "ntchapter": "8",
+        "ntverse": "22-38",
+        "otbook": "numbers",
+        "otchapter": "28-30"
+    },
+    {
+        "day": "4",
+        "ntbook": "mark",
+        "ntchapter": "9",
+        "ntverse": "1-29",
+        "otbook": "numbers",
+        "otchapter": "31-33"
+    },
+    {
+        "day": "5",
+        "ntbook": "mark",
+        "ntchapter": "9",
+        "ntverse": "30-50",
+        "otbook": "numbers",
+        "otchapter": "34-36"
+    },
+    {
+        "day": "6",
+        "ntbook": "mark",
+        "ntchapter": "10",
+        "ntverse": "1-31",
+        "otbook": "deuteronomy",
+        "otchapter": "1-2"
+    },
+    {
+        "day": "7",
+        "ntbook": "mark",
+        "ntchapter": "10",
+        "ntverse": "32-52",
+        "otbook": "deuteronomy",
+        "otchapter": "3-4"
+    },
+    {
+        "day": "8",
+        "ntbook": "mark",
+        "ntchapter": "11",
+        "ntverse": "1-18",
+        "otbook": "deuteronomy",
+        "otchapter": "5-7"
+    },
+    {
+        "day": "9",
+        "ntbook": "mark",
+        "ntchapter": "11",
+        "ntverse": "19-33",
+        "otbook": "deuteronomy",
+        "otchapter": "8-10"
+    },
+    {
+        "day": "10",
+        "ntbook": "mark",
+        "ntchapter": "12",
+        "ntverse": "1-27",
+        "otbook": "deuteronomy",
+        "otchapter": "11-13"
+    },
+    {
+        "day": "11",
+        "ntbook": "mark",
+        "ntchapter": "12",
+        "ntverse": "28-44",
+        "otbook": "deuteronomy",
+        "otchapter": "14-16"
+    },
+    {
+        "day": "12",
+        "ntbook": "mark",
+        "ntchapter": "13",
+        "ntverse": "1-20",
+        "otbook": "deuteronomy",
+        "otchapter": "17-19"
+    },
+    {
+        "day": "13",
+        "ntbook": "mark",
+        "ntchapter": "13",
+        "ntverse": "21-37",
+        "otbook": "deuteronomy",
+        "otchapter": "20-22"
+    },
+    {
+        "day": "14",
+        "ntbook": "mark",
+        "ntchapter": "14",
+        "ntverse": "1-26",
+        "otbook": "deuteronomy",
+        "otchapter": "23-25"
+    },
+    {
+        "day": "15",
+        "ntbook": "mark",
+        "ntchapter": "14",
+        "ntverse": "27-53",
+        "otbook": "deuteronomy",
+        "otchapter": "26-27"
+    },
+    {
+        "day": "16",
+        "ntbook": "mark",
+        "ntchapter": "14",
+        "ntverse": "54-72",
+        "otbook": "deuteronomy",
+        "otchapter": "28-29"
+    },
+    {
+        "day": "17",
+        "ntbook": "mark",
+        "ntchapter": "15",
+        "ntverse": "1-25",
+        "otbook": "deuteronomy",
+        "otchapter": "30-31"
+    },
+    {
+        "day": "18",
+        "ntbook": "mark",
+        "ntchapter": "15",
+        "ntverse": "26-47",
+        "otbook": "deuteronomy",
+        "otchapter": "32-34"
+    },
+    {
+        "day": "19",
+        "ntbook": "mark",
+        "ntchapter": "16",
+        "ntverse": "",
+        "otbook": "joshua",
+        "otchapter": "1-3"
+    },
+    {
+        "day": "20",
+        "ntbook": "luke",
+        "ntchapter": "1",
+        "ntverse": "1-20",
+        "otbook": "joshua",
+        "otchapter": "4-6"
+    },
+    {
+        "day": "21",
+        "ntbook": "luke",
+        "ntchapter": "1",
+        "ntverse": "21-38",
+        "otbook": "joshua",
+        "otchapter": "7-9"
+    },
+    {
+        "day": "22",
+        "ntbook": "luke",
+        "ntchapter": "1",
+        "ntverse": "39-56",
+        "otbook": "joshua",
+        "otchapter": "10-12"
+    },
+    {
+        "day": "23",
+        "ntbook": "luke",
+        "ntchapter": "1",
+        "ntverse": "57-80",
+        "otbook": "joshua",
+        "otchapter": "13-15"
+    },
+    {
+        "day": "24",
+        "ntbook": "luke",
+        "ntchapter": "2",
+        "ntverse": "1-24",
+        "otbook": "joshua",
+        "otchapter": "16-18"
+    },
+    {
+        "day": "25",
+        "ntbook": "luke",
+        "ntchapter": "2",
+        "ntverse": "25-52",
+        "otbook": "joshua",
+        "otchapter": "19-21"
+    },
+    {
+        "day": "26",
+        "ntbook": "luke",
+        "ntchapter": "3",
+        "ntverse": "",
+        "otbook": "joshua",
+        "otchapter": "22-24"
+    },
+    {
+        "day": "27",
+        "ntbook": "luke",
+        "ntchapter": "4",
+        "ntverse": "1-30",
+        "otbook": "judges",
+        "otchapter": "1-3"
+    },
+    {
+        "day": "28",
+        "ntbook": "luke",
+        "ntchapter": "4",
+        "ntverse": "31-44",
+        "otbook": "judges",
+        "otchapter": "4-6"
+    },
+    {
+        "day": "29",
+        "ntbook": "luke",
+        "ntchapter": "5",
+        "ntverse": "1-16",
+        "otbook": "judges",
+        "otchapter": "7-8"
+    },
+    {
+        "day": "30",
+        "ntbook": "luke",
+        "ntchapter": "5",
+        "ntverse": "17-39",
+        "otbook": "judges",
+        "otchapter": "9-10"
+    },
+    {
+        "day": "31",
+        "ntbook": "luke",
+        "ntchapter": "6",
+        "ntverse": "1-26",
+        "otbook": "judges",
+        "otchapter": "11-12"
+    }
+]
